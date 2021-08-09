@@ -1,0 +1,37 @@
+
+//security
+https://consensys.github.io/smart-contract-best-practices/recommendations/#use-events-to-monitor-contract-activity
+
+//tools
+Security Tools
+Visualization¶
+Solidity Visual Auditor
+Sūrya 
+Solgraph 
+EVM Lab 
+ethereum-graph-debugger 
+Piet 
+Static and Dynamic Analysis¶
+MythX
+Mythril - The Swiss army knife for smart contract security.
+Slither - Static analysis framework with detectors for many common Solidity issues. It has taint and value tracking capabilities and is written in Python.
+Contract-Library - Decompiler and security analysis tool for all deployed contracts.
+Echidna - The only available fuzzer for Ethereum software. Uses property testing to generate malicious inputs that break smart contracts.
+Manticore - Dynamic binary analysis tool with EVM support.
+Oyente - Analyze Ethereum code to find common vulnerabilities, based on this paper.
+Securify - Fully automated online static analyzer for smart contracts, providing a security report based on vulnerability patterns.
+SmartCheck - Static analysis of Solidity source code for security vulnerabilities and best practices.
+Octopus - Security Analysis tool for Blockchain Smart Contracts with support of EVM and (e)WASM.
+sFuzz - Efficient fuzzer inspired from AFL to find common vulnerabilities.
+Vertigo - Mutation Testing for Ethereum Smart Contracts.
+Weakness OSSClassifcation & Test Cases¶
+SWC-registry - SWC definitions and a large repository of crafted and real-world samples of vulnerable smart contracts.
+SWC Pages - The SWC-registry repo published on Github Pages
+Test Coverage¶
+solidity-coverage - Code coverage for Solidity testing.
+Linters and Formatters¶
+Linters improve code quality by enforcing rules for style and composition, making code easier to read and review.
+
+Ethlint - Yet another Solidity linting.
+Solhint - A linter for Solidity that provides both Security and Style Guide validations.
+Prettier + Solidity Plugin - Prettier enforces basic style conventions in your code.
