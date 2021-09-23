@@ -84,3 +84,5 @@ Velocity = 24h Volume / Circulating Supply
 
 
 Figures have been rounded off for convenience
+
+https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
