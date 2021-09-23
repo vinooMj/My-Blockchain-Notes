@@ -34,3 +34,4 @@ Hardware wallets are a bit different from software wallets like desktop, mobile,
 Paper wallets are easy to use and are highly secure. The software will automatically generate your private keys and public keys which can be printed. A user can easily transfer funds from their software wallet to the public address of their paper wallet. You can enter your private keys or scan the QR code on the paper wallet for transferring funds from it to your software wallet. A Bitcoin paper wallet can be printed at bitaddress org.
 
 https://readwrite.com/2020/12/23/how-to-create-a-cryptocurrency-wallet/?__cf_chl_jschl_tk__=pmd_pO5YipTSK4tIuCnsNtoGOq7mHNZeX.g.Cm.JAztm6e8-1629564005-0-gqNtZGzNAlCjcnBszQZ9
+build wallet - https://hackmd.io/AAnFyYI9S9S3mq1JpIirzQ?view
