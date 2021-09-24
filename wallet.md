@@ -33,5 +33,64 @@ Mobile wallets can be utilized via an app on your smartphone. They are accepted 
 Hardware wallets are a bit different from software wallets like desktop, mobile, and online wallets as they do not store the user’s private keys online but store them on a hardware device like a USB. They have robust security measures as they are stored online and transactions can also be executed online. They can support different digital currencies and are seamlessly compatible with several web interfaces. Some famous hardware wallets are Trezor, Ledger Nano S, and KeepKey.
 Paper wallets are easy to use and are highly secure. The software will automatically generate your private keys and public keys which can be printed. A user can easily transfer funds from their software wallet to the public address of their paper wallet. You can enter your private keys or scan the QR code on the paper wallet for transferring funds from it to your software wallet. A Bitcoin paper wallet can be printed at bitaddress org.
 
+1, Blockchain data can be freely read by anybody with the right tool, usually a web app written by a developer.
+
+But in order to make a change to blockchain data such as sending funds to someone or minting an NFT, you need to send a "transaction" to the blockchain.
+
+2,A "transaction" (Tx) is an action that changes blockchain data. It has four primary components:
+
+1 What the Tx will do? (ex: transfer funds)
+2 Information needed for the Tx? (ex: amount, recipient)
+3 Tx fees (aka "gas")
+4 Authorization for the Tx via a digital signature
+
+3,A digital signature here isn't just your scribbled signature in picture form. It specifically means using cryptographic techniques to create a sealed digital envelope that mathematically proves that "you" approved the Tx.
+
+The "you" in this case is not you, the person
+
+4,You" really means someone or something in possession of a special piece of information called a "private key"
+
+The private key is a secret piece of information associated with your blockchain account that is used by a special tool to digitally sign the sealed Tx envelope.
+
+5,The commonly used name for the special tool that is used to sign the sealed Tx envelope is...
+
+🎉 Wallet 🎉
+
+In a nutshell, a crypto Wallet is a tool used to manage a list of accounts and their private keys that are necessary to sign blockchain transactions.
+
+6,You're probably thinking, "But wait, Nik. That doesn't sound right. My crypto Wallet contains my BTC, ETH, NFTs, Doge 😜. Your definition of Wallet doesn't mention how my crypto is stored in it. What gives?"
+
+That friends, is the biggest misconception about crypto Wallets.
+
+7,Repeat after me — crypto Wallets do NOT contain any crypto assets. No coins. No tokens. No NFTs. 
+
+Crypto Wallets are a tool to manage your accounts and private keys — that's it.
+
+Your crypto assets are ALWAYS data entries on the blockchain ledger, not in your crypto Wallet
+
+8,This means you can use any number and type of crypto Wallets to transact for an account whose private key you know, and it will work swimmingly.
+
+Your cryptocurrency — not in your Wallet
+Your tokens — not in your Wallet
+Your NFTs — not in your Wallet
+
+9,our crypto assets are actually just blockchain data:
+
+Coins you own — an entry for your account in the ledger of the blockchain on which that Coin is a native cryptocurrency
+
+Tokens and NFTs you own — an entry for your account in the Smart Contract that issued the token
+
+10, Summary:
+
+A crypto Wallet is a tool used to manage blockchain accounts and associated private keys.
+
+Crypto assets are never in a Wallet, they always remain on the blockchain.
+
+You can use multiple Wallets for the same account — just the UI will be different not the data.
+
+Reference: https://www.youtube.com/watch?v=d8IBpfs9bf4
+
+Credits: Nik Kalyani
+
 https://readwrite.com/2020/12/23/how-to-create-a-cryptocurrency-wallet/?__cf_chl_jschl_tk__=pmd_pO5YipTSK4tIuCnsNtoGOq7mHNZeX.g.Cm.JAztm6e8-1629564005-0-gqNtZGzNAlCjcnBszQZ9
 build wallet - https://hackmd.io/AAnFyYI9S9S3mq1JpIirzQ?view
