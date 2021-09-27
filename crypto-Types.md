@@ -18,3 +18,16 @@ A = Asset backed tokens e.g. Tether (USDT)
 L = Lending / Borrowing cryptos e.g. Aave (AAVE)
 
 Credits - Rohas Nagpal
+
+#9 most relevant websites to learn more about Cryptocurrencies and Blockchain.
+
+
+CoinDesk
+Cointelegraph
+DailyCoin
+Blockonomi
+99Bitcoins Bitcoin Crash Course
+CoinSutra
+Blockgeeks
+101 Blockchains
+Go CryptoWise
