@@ -88,6 +88,8 @@ Crypto assets are never in a Wallet, they always remain on the blockchain.
 
 You can use multiple Wallets for the same account — just the UI will be different not the data.
 
+If you manage your private keys, the wallet is referred to as a non-custodial wallet because no one has custody of your wallet except you. If a third party controls your private keys, then the wallet is a custodial wallet. If you are looking for some good Wallets
+
 Reference: https://www.youtube.com/watch?v=d8IBpfs9bf4
 
 Credits: Nik Kalyani
