@@ -88,3 +88,28 @@ CoinSutra
 Blockgeeks
 101 Blockchains
 Go CryptoWise
+
+-------------
+Altcoin:
+
+Any coin that's not #Bitcoin
+
+Ether (#ETH) is the second most popular coin overall and the most well-known Altcoin.
+
+
+Coin:
+
+A store of digital value that lives on a blockchain.
+
+Some blockchains, such as Bitcoin, use the same name for both the network and the coin.
+
+Stable coins are another type of cryptocurrency which are backed by fiat currency (e.g the US dollar) or commodities such as Gold.
+
+Cryptocurrency:
+
+A currency that is digital & decentralized.  
+
+Crypto removes the need for a trusted authority or "middle-man" to certify the validity of a transaction.
+
+Can be used to buy & sell goods or as a long-term store of value.
+
