@@ -14,3 +14,8 @@
 **Non-Fungible Token (NFT)**- unique digital assets on the blockchain. They are each one of a kind; this allows for tracking the ownership.
 
 Web3 does not have to use blockchain technology. In the context of Ethereum, that is the technology used. However, keep in mind that web3 and blockchain are not the same.
+
+**ABI** - Contract Application Binary Interface (ABI): the standart way to talk to a smart contract on Ethereum. It is a json file that contains the contracts functions and/or events. 
+     Basically like an api for smart contracts. 
+
+
