@@ -3,6 +3,8 @@ Tokens:
 Tokenization
 Is the process of creating a digital representation of tangible (real estate, gold) or intangible (cryptocurrencies, carbon credits) assets on a blockchain.
 
+Tokens give users property rights: the ability to own a piece of the internet.
+
 The tokenization of assets opens many possibilities such as fractional ownership. For example, a real estate worth one million USD can be digitally represented in one million tokens so each token is $1.
 
 This lowers the minimum capital requirements for many expensive asset classes such as art, collectibles and allows a crowdfunding style of investment making illiquid assets liquid.
