@@ -17,6 +17,8 @@ On the other hand, security tokens can be compared with Amazon share that may gu
 
 Unregulated Initial Coin Offerings (ICO) which can be compared to IPO version of cryptocurrency.
 
+Fungible & Nonfungible
+
 
 
 
