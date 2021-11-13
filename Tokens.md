@@ -19,6 +19,15 @@ Unregulated Initial Coin Offerings (ICO) which can be compared to IPO version of
 
 Fungible & Nonfungible
 
+ERC-20 Token Standard
+
+ERC-20 is a standard on Ethereum used to code a class of fungible tokens.
+
+Use cases of fungible tokens include:
+
+    Digital currency or mediums of exchange such as stablecoins.
+    Security tokens or crypto assets that are programmed to be stocks and bonds of the same class.
+
 
 
 
