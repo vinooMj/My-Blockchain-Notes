@@ -9,7 +9,7 @@ How Solana has stood apart?
 Solana’s key features:
 1. Proof of History(PoH) consensus — lesser energy consumption, efficient, faster.
 2. Tower BFT — PBFT with a twist to leverage the PoH consensus
-3. Turbine — Better than the typical gossip protocol
+3. Turbine — Better than the typical gossip protocol.
 4. Gulf Stream — enables faster transaction validation, playing a major role in the high
 throughput of Solana
 5. Sealevel — Concurrency in Blockchain transactions, very powerful
