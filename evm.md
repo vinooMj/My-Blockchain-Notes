@@ -19,7 +19,9 @@ Program execution is fully deterministic and produces identical state transition
 
 
 https://moralis.io/evm-explained-what-is-ethereum-virtual-machine/
+
 https://www.bitrates.com/guides/ethereum/what-is-the-unstoppable-world-computer
+
 https://www.coding-bootcamps.com/blog/how-ethereum-virtual-machine-works.html
 
 Core:
