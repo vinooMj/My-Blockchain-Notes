@@ -10,7 +10,7 @@ According to Statista, bitcoin’s average energy consumption per transaction (a
 POS
 In this case, the weight of a participant’s vote is not tied to the scarce resource of computing power, but to the scarce resource of capital.
 
-There is a random mechanism that determines who is allowed to build (“mint”, “forge”, “bake”) and attach the next block. With the help of this mechanism, the probability of being selected is linked to the amount of cryptocurrency that the node has deposited and locked (staked) for this purpose. 
+There is a random mechanism that determines who is allowed to build (“mint”, “forge”, “bake”) and attach the next block. With the help of this mechanism, the probability of being selected is linked to the amount of cryptocurrency that the node has deposited and locked (staked) for this purpose..
  
 The deposit also incentivizes the node to stick to the rules of the network, as any misbehaviour detected will lead to the node losing this deposit.
 
