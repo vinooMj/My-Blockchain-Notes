@@ -27,6 +27,12 @@ Use cases of fungible tokens include:
 
     Digital currency or mediums of exchange such as stablecoins.
     Security tokens or crypto assets that are programmed to be stocks and bonds of the same class.
+    
+    STO:
+    STOs are said to hold intrinsic value, they can guarantee interest, profit sharing, dividends, voting rights, and more.
+    STOs are increasing in popularity. It is safe to say that they will be significantly more regulated than ICOs
+    STOs embrace SEC requirements and regulatory oversight — acknowledging that they are there to protect investors against scams and bad investments.
+    STOs are said to hold intrinsic value, they can guarantee interest, profit sharing, dividends, voting rights, and more.
 
 
 
