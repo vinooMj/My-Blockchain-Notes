@@ -14,3 +14,4 @@ There is a random mechanism that determines who is allowed to build (“mint”,
  
 The deposit also incentivizes the node to stick to the rules of the network, as any misbehaviour detected will lead to the node losing this deposit.
 
+
