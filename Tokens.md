@@ -36,6 +36,72 @@ Use cases of fungible tokens include:
 
 
 
+Tokens from Ethereum blockchain are called ERC-20
+
+while tokens from Solana blockchain are called SPL tokens.
+
+
+
+💫 Benefits of Tokens 💫
+
+✅ Cost effective - no need to create your own blockchain network.
+
+✅ Ease of use - You just “rent” an existing blockchain and run on it.
+
+✅ Safety and Stability - obtained from an existing blockchain platform.
+
+✅ Variety of uses - tokens can be used in many ways rather than just transactions.
+
+
+
+💡The focus of a team behind a Crypto Coin is to maintain, develop, grow and improve their blockchain and its uses.
+
+💡 The focus of a team behind a Token is to develop and to provide a great #web3 product.
+
+
+⚡️ If a token project is growing quick enough, the developers can migrate from a Token to a Coin.
+
+For instance:
+
+Crypto.com started with an ERC-20 token called CRO.
+
+Later on, they develop their own blockchain platform called Cronos Chain where they have a new version of CRO as a coin 🚀
+
+Users with the original ERC-20 token CRO, were able to migrate to the new CRO coin 🪙
+
+
+
+💫 Interesting thing to know is that some Coins working in other blockchains are represented as Tokens.
+
+How❔
+
+If you buy Ether in the Solana Blockchain, you are not buying straight Ether 🤯
+
+Instead, you are buying a token representation of Ethereum in the Solana Blockchain called “Wrapped-Ethereum” 🌯
+
+This token’s value is pegged to the Ether value ☑️
+
+You can cash out your Wrapped-Ethereum anytime ☑️
+
+If you send it to an Ethereum based exchange, the Wrapped-Ethereum will be first swapped to straight Ether, and then “moved out” from the Solana Blockchain ☑️
+
+Is there any advantage to this❔
+
+Yes❕
+
+A regular Ethereum transaction has an average Gas fee of $20 ⚠️
+
+However a transaction in the Solana Blockchain is only $0.00025 💥
+
+Huge difference 💸
+
+In theory, you can purchase more Ether in the Solana Blockchain since you are saving on transaction costs.
+
+That is why a Solana based crypto exchange called FTX has the lowest fees ☝🏼
+
+That is a small part of what is called Crypto coin Arbitrage 🤓
+
+
 
 https://github.com/sherminvo/TokenEconomyBook/wiki
 https://www.youtube.com/watch?v=6GaCt_lM_ak
