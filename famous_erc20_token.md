@@ -1,0 +1,11 @@
+List of 10 Famous ERC-20 Tokens 
+  #1 — Tether (USDT)
+  #2 — SHIBA INU (SHIB)
+  #3 — Uniswap (UNI)
+  #4 — Chainlink (LINK)
+  #5 — Decentraland (MANA)
+  #6 — Polygon (MATIC)
+  #7 — Aave (AAVE)
+  #8 — Loopring (LRC)
+  #9 — Enjin Coin (ENJ)
+  #10 — Basic Attention Token (BAT)
