@@ -29,3 +29,5 @@ The path to a specific transaction in the transaction trie is via (the RLP encod
 Geth uses LevelDB because LevelDB is implemented in GO, has key-value pairs and includes modern data storage (i.e. multiple layers on disk, organized in the background)
 
 ------------
+
+ EIP-170 which added a smart contract size limit of 24.576 kb.
