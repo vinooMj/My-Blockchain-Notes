@@ -31,3 +31,13 @@ Geth uses LevelDB because LevelDB is implemented in GO, has key-value pairs and 
 ------------
 
  EIP-170 which added a smart contract size limit of 24.576 kb.
+ 
+ ------
+ validation - check prev hash next hash, check bal, check identity with public key
+ validation - Block validation, transaction validation
+  Every block receiver validation the transaction then added to blockchain 
+  Block validator - create block add header.
+  
+  -----------------
+  EIP - miners voting
+  Soft fork(solidity updates) - hard fork (major updates).
