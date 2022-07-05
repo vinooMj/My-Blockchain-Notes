@@ -1,3 +1,76 @@
+Polkadot Profile
+
+Polkadot
+
+Founding Year : 2016
+Token name : DOT
+Token Launch : Oct 2017
+Token Price : $ 0.29
+No of Tokens. : 2.24 mil
+2nd ICO funding : July 2020
+Token Price : $ 1.25
+No of Tokens. : 0.343 mil
+All time low : $ 2.70
+All time high : $ 54.58
+Total Funding : $ 293 Mil
+
+$ 293 Mil funds has been deployed to build Polkadot Ecosystem consists of
+
+- Relaychains
+- Parachains
+- Parathreads
+- Common Good Parachains
+- Parachain slot candel auction system
+- Crowdloan - PLO
+- Ecosystem Developments
+
+No of Parachains : 22
+Max Parachains Slots : 100
+Max No of Nodes : 1000
+No of Dapps : 527
+No of Developers : < 1400
+Total Adds : 1.02 mil
+Active Address : 23K - 50 K
+Daily Transactions : 12.6 K
+Fees paid by users : Zero
+DOT staked : @ 60 %
+TVL Proj : $ 3.2 B
+Revenues : $ 0.6 mil
+
+Operational KPIs
+
+Avg Block Time : 6 Sec
+Speed TPS : 1000
+
+Tokonomics
+
+Total supply : 1.21 Bil
+In Circulation : 1.1 Bil
+CMP of Poly : $ 6.69
+Market Cap MC : $ 6.60 B
+Fully Diluted MC : $ 7. 36 B
+
+Valuation : MC- Macap Multiples
+
+MCap / TVL = $ 6.60 B / $ 3.2 B = 2X
+
+Key Points :
+
+1. Polkadot is protocol for protocols or a blockchain for blockchains …. Polkadot's protocol connects a network of purpose-built blockchains, allowing them to interact with one another effortlessly via its parachains.
+
+2. On Polkadot, each validator is running their own validating node and performing full verification of the Relay Chain, voting on finality, producing blocks in their decided slots, and verifying parachain state transitions.
+
+3. Polkadot will be a platform for other chains that do implement smart contracts. While the Polkadot Relay Chain does not implement smart contracts directly, undoubtedly there will be parachains that do.
+
+4. Polkadot uses a weight-based fee model as opposed to a gas-metering model.
+
+
+
+
+
+
+
+
 Why I am bullish on Polkadot (DOT) for 2022
 
 1. Introduction to Polkadot
