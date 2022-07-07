@@ -41,3 +41,6 @@ Geth uses LevelDB because LevelDB is implemented in GO, has key-value pairs and 
   -----------------
   EIP - miners voting
   Soft fork(solidity updates) - hard fork (major updates).
+  -----------------
+  Ethereum transaction sign
+  password -> hash -> private key -> address
