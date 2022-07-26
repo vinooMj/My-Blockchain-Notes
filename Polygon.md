@@ -1,7 +1,7 @@
 Matic Network is a decentralized platform using an adapted version of Plasma framework that provides a solution for faster and extremely low cost transactions with finality on a main chain.
 
 Thus to overcome these issues, Matic Blockchain comes into role. Matic is a layer 2 solution that focuses on reducing high gas fees cost, transactions speed, and providing a better user experience. Moreover, Matic is similar to other solutions such as Polkadot, Cosmos, etc. but it has 3 major upsides which are:
-1 It can fully benefit from Ethereum’s network effects
+1 It can fully benefit from Ethereum’s network effects.
 2 It is inherently more secure
 3 It is more open and powerful
 
