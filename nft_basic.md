@@ -1,9 +1,9 @@
 Base functionality of NFTs:                                 
--       🛠 Minting an NFT means converting digital data into crypto collections or digital assets recorded on the blockchain. 
--       🔥  Token burn means they have been permanently pulled out of circulation by transferring those tokens to a ‘dead wallet’. 
--       The private key for this wallet is unknown, so the crypto is lost forever.
--       🔐 Buying and selling is possible via different market places
--       💰 NFT royalties give the person who minted it a percentage of the sale price each time the NFT creation is sold on a marketplace. 
+-   Minting an NFT means converting digital data into crypto collections or digital assets recorded on the blockchain. 
+-   Token burn means they have been permanently pulled out of circulation by transferring those tokens to a ‘dead wallet’. 
+-   The private key for this wallet is unknown, so the crypto is lost forever.
+-   Buying and selling is possible via different market places
+-   NFT royalties give the person who minted it a percentage of the sale price each time the NFT creation is sold on a marketplace. 
 
 Things always start much earlier than expected and take a while to develop: 2012-2016 are the #Early History of NFTs: Long before #Ethereum existed, the concept was already thought up when in 2012, a paper by Meni Rosenfield was released that introduced the ‘Colored Coins’ concept for the Bitcoin blockchain.
 
