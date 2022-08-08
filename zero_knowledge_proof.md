@@ -61,3 +61,64 @@ Complex documentation
  
 𝐁𝐨𝐭𝐭𝐨𝐦 𝐥𝐢𝐧𝐞
 Zero-knowledge proofs will play a major role in the future of #Web3, #DeFi and #metaverse to share information securely that is necessary to gain access to goods and services without disclosing personal #data that could make a user susceptible to hacking and identity theft.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Zero knowledge proofs are one of the most significant crypto technologies being developed
+Here are five ways zero knowledge proofs are making dapps more #efficient, #private & #decentralised
+
+1. MultiPlayer games on chain - #darkforest
+
+DarkForest is a #multiplayer game completely on-chain where players compete in rounds. Players start on a planet & can conquer other unconquered planets or planets of other players
+The goal is to get as many points as possible
+
+How ZK helps?
+
+Both the location of the player's planet and the moves that they make are hidden from other players
+Players generate ZK proofs on their system & publish them on the blockchain where the #contract verifies that the moves they are making are valid.
+
+2. Private Transactions - #TornadoCash
+
+Tornado #cash enables users to transfer their #ETH to a different account in a private way. Users deposit ETH into a pool & can withdraw those ETH from the pool using a diff account.
+
+ZK helps break the link between the #deposit and #withdrawal .
+
+How ZK helps ?
+
+While depositing users submit the hash of a secret.
+While withdrawing users submit a ZK Proof that they know the secret without revealing which #secret they know.
+This enables them to #withdraw their ETH without revealing which #deposit was theirs
+
+3. Proof of Storage - #filecoin
+
+Filecoin enables everyone to store their data in a #decentralised manner.
+Every storage provider must submit two proofs
+1. Proof of replication(PoRep)- data was downloaded by provider
+2. Proof of space time(PoSt)- data is still being stored.
+
+How ZK helps?
+
+Using ZK, filecoin compresses both PoRep & PoSt from 100s of KBs to 192Bs, a reduction of 10000!. Each storage provider generates 10 ZKPs each for PoRep & PoSt respectively.
+These ZKPs can be very cheaply verified on #chain, saving both bandwidth & mining costs
+
+4. Private Identity & Credentials - #identhree
+
+Iden3 enables solutions like #polygon
+ where users share information about their data while keeping it private
+Eg. proving you are a DAO member without disclosing your #identity. Or that you are above 18 yrs w/o sharing your age
+
+How ZK helps?
+
+Users can submit proofs to the #DAO that they are one of the member addresses without revealing which #address is them
+
+Users can also submit proofs that they hold a valid document (>18 age) without #revealing the actual details of that document.
+
+5. Proof of Alpha #minaprotocol
+
+ helps traders & funds verify that they actually made a #profit in their trades without revealing the real #trades.
+LPs or followers can verify trader's #profitability without knowing which trades or #investments were executed.
+
+How ZK helps?
+
+#Traders can link their exchange #accounts to an application which fetches all their trading history.
+It generates a ZKP of the profit without revealing the actual trades.
