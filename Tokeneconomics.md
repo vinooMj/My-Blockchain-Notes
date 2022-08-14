@@ -1,3 +1,14 @@
+ Token Allocation/Distribution: how many tokens are reserved for the founding team, the investors/advisors, and the community/ecosystem? We’re 
+ typically looking for at least 50% going to the community. Why? The community allocation is used to incentivize the formation of multi-sided marketplaces — driving network effects and network value.
+
+- Lock Up and Vesting Periods: look for 1-year lock-ups and 3-4 years vesting schedules for the founders/core contributors, investors, and advisors. This gives us confidence that the core team and investors are in it for the long haul and cannot dump their coins on the market as soon as the token is listed publicly.
+
+- Utility of the token: What is the value prop of the project and what is the token used for? For example, Ethereum is a layer 1 blockchain that allows for a marketplace of decentralized business/apps and new economic models to be built utilizing its base layer technology. If you want to access DeFi, buy/sell or mint an NFT, anchor data, build an app, play a game, send a transaction, etc you need some ETH. ETH, the native token, is the asset that powers the Ethereum ecosystem. This is why some refer to its utility as "digital oil."
+
+- Staking or Incentives to Lock Up the Token: Is there a reason a user may want to lock up their tokens? This could include staking, which rewards users for locking up their tokens and providing services to the network (validating transactions). Look for valid reasons to stake — a service should be provided (such as validating transactions, providing liquidity, etc) rather than just locking up coins and being rewarded for doing so.
+
+
+
 Unlimited Supply:
 
 If it had an unlimited supply, it would eventually end up worth nothing, like Zimbabwe dollar (ZWL) which is currently being printed in 100trillion dollar 
