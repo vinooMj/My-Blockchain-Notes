@@ -4,7 +4,7 @@ Stated differently, cryptographic techniques are used to ensure that your inform
 
 2The foundation of just about everything in blockchain is "Asymmetric Cryptography" (which, as you can imagine, is different from "Symmetric Cryptography")
 
-Symmetric: Hide *and* reveal info using the same tool
+Symmetric: Hide *and* reveal info using the same tool.
 
 Asymmetric: Hide with one tool, reveal with another tool
 
