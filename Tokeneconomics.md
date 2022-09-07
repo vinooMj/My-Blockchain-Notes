@@ -1,7 +1,69 @@
- Token Allocation/Distribution: how many tokens are reserved for the founding team, the investors/advisors, and the community/ecosystem? We’re 
- typically looking for at least 50% going to the community. Why? The community allocation is used to incentivize the formation of multi-sided marketplaces — driving network effects and network value.
+ Token Allocation/Distribution: 
+ What is Token Economics?
 
-- Lock Up and Vesting Periods: look for 1-year lock-ups and 3-4 years vesting schedules for the founders/core contributors, investors, and advisors. This gives us confidence that the core team and investors are in it for the long haul and cannot dump their coins on the market as soon as the token is listed publicly.
+Token Economics is the umbrella term for the economic models and token distribution methods in the Crypto Asset & DeFi sector.
+Types of Crypto Assets
+
+1. Electronic cash e.g. Bitcoin (BTC), Monero (XMR)
+2. Governance cryptos e.g. Uniswap (UNI)
+3. Non-Fungible Tokens
+4. Security tokens
+5. Utility tokens e.g. Ether (ETH)
+6. Wrapped Assets e.g. Tether (USDT)
+
+Token Economic Models
+
+1. Deflationary Model where there is a hard cap on the number of tokens e.g. Bitcoin (BTC).
+
+2. Inflationary Model where there is no hard cap on the number of tokens e.g. Ether (ETH).
+
+3. Dual-Token Model where two separate tokens are used on a single chain e.g. Theta Network (THETA) and Theta Fuel (TFUEL).
+
+4. Asset-backed Model where the token is backed by an asset like fiat currency e.g. Tether (USDT).
+
+Important issues that impact these economic models include:
+1. mining,
+2. staking,
+3. yields,
+4. pre-mining,
+5. token burns, and
+6. token allocations & vesting periods.
+
+Token Distribution Methods
+
+1. Airdrops
+An airdrop is a marketing activity by a new crypto project. A small amount of crypto is sent out for "free" to increase awareness. It's not entirely "free" as you may need to do some promotional work like retweeting a post, sharing a link with your network, etc. If you want to bypass this work, 
+you can signup for automated services.
+
+2. Initial Coin Offering (ICO)
+In an ICO, investors fund a blockchain project in return for tokens which are expected to increase in value over time. The funding is based primarily 
+on information provided by the project’s whitepaper, website, and social media accounts.
+
+3. Reverse ICO
+In a reverse ICO, an existing, established real-world business issues a token to decentralize its ecosystem, and raise funds.
+
+4. Initial Exchange Offering (IEO)
+An IEO is very similar to an ICO. The only difference is that the funding is based around a crypto exchange.
+
+5. Initial DEX Offering (IDO)
+In an IDO, the tokens are launched through a decentralized exchange (DEX)
+
+6. DAICO
+A DAICO combines the characteristics of a Decentralized Autonomous Organization (DAO) with that of an Initial Coin Offering (ICO). A DAICO can make 
+an ICO more secure by involving investors in the initial project development process. It enables token holders to vote for the refund of the 
+contributed funds if they are not happy with the progress being made by developers.
+
+7. Equity Token Offerings (ETOs) & Security Token Offerings (STOs)
+In an ETO / STO, the investors get pro-rata ownership in the company as well as dividends and voting rights.
+
+8. Simple Agreement for Future Tokens (SAFT)
+A SAFT is an investment contract that is considered a security. It is offered by a cryptocurrency project to accredited investors.
+ how many tokens are reserved for the founding team, the investors/advisors, and the community/ecosystem? 
+ We’re typically looking for at least 50% going to the community. Why? The community allocation is used to incentivize the formation of multi-sided marketplaces — driving network effects and network value.
+
+- Lock Up and Vesting Periods: look for 1-year lock-ups and 3-4 years vesting schedules for the founders/core contributors, investors, and advisors. 
+- This gives us confidence that the core team and investors are in it for the long haul and cannot dump their coins on the market as soon as the 
+- token is listed publicly.
 
 - Utility of the token: What is the value prop of the project and what is the token used for? For example, Ethereum is a layer 1 blockchain that allows for a marketplace of decentralized business/apps and new economic models to be built utilizing its base layer technology. If you want to access DeFi, buy/sell or mint an NFT, anchor data, build an app, play a game, send a transaction, etc you need some ETH. ETH, the native token, is the asset that powers the Ethereum ecosystem. This is why some refer to its utility as "digital oil."
 
