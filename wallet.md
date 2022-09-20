@@ -92,7 +92,7 @@ If you manage your private keys, the wallet is referred to as a non-custodial wa
 
 Reference: https://www.youtube.com/watch?v=d8IBpfs9bf4
 
-Credits: Nik Kalyani
+Credits: Nik Kalyani.
 
 https://readwrite.com/2020/12/23/how-to-create-a-cryptocurrency-wallet/?__cf_chl_jschl_tk__=pmd_pO5YipTSK4tIuCnsNtoGOq7mHNZeX.g.Cm.JAztm6e8-1629564005-0-gqNtZGzNAlCjcnBszQZ9
 build wallet - https://hackmd.io/AAnFyYI9S9S3mq1JpIirzQ?view
