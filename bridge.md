@@ -1,4 +1,4 @@
-Navigating Blockchain Bridges 
+Navigating Blockchain Bridges: 
 
 
 🔗Blockchains tends to built with their own unique systems and mechanisms which makes communication tough.
