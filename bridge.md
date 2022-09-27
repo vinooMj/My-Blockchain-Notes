@@ -34,4 +34,4 @@ Avalanche Bridge (AB), wrapped BTC, wMonero.
 ☑️Burn & Mint — These bridges burn assets on the source chain and mint assets on the destination chain. Examples: Hop, Across.
 ☑️Atomic Swaps — These bridges swap assets on the source chain for assets on the destination chain. Generally, they are more trustless because 
 they rely on self-executing smart contracts for asset swaps and remove the requirement for a trusted third-party necessary in lock & mint or burn & 
-mint mechanisms. Examples: cBridge, Connext.
+mint mechanisms. Examples: cBridge, Connext..
