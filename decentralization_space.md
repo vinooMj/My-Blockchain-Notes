@@ -8,7 +8,7 @@ I don't know the answer. Right now, most chains have something like low thousand
 
 - Ethereum (~4800)
 - Solana (~1800)
-- Avalanche (~1300)
+- Avalanche (~1300).
 - Cardano (~2700)
 
 It's hard to run a node. Networks provide guidance on how good the machine needs to be in order to run the software. And it's not a cakewalk. 
