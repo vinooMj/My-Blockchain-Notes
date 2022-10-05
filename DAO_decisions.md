@@ -7,7 +7,7 @@ For me it's always fun to browse through governance forums of various DAOs to se
 
 1. Treasury management 
 2. Protocol evolution
-3. Voting and governance
+3. Voting and governance.
 
 It's no secret that governance in most DAOs is kinda hacked. The concept of one token one vote though seems fair, in practice it really isn't. 
 
