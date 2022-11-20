@@ -7,7 +7,7 @@ making a real deposit or by depositing with a valueless token, then they can wit
 - Message Verification Bug:
 Cross-chain bridges perform validation of a deposit or withdrawal before actually performing any transfers. There have been many instances in the past where 
 lack of proper validation of signature leads to millions of dollars hacks. Recently BSC chain was attacked because of a similar bug and a total of 576 Million was
-withdrawn by hackers.
+withdrawn by hackers..
 
 - Lack of cross-contract access control in blockchain bridges:
 It is important to have access control validations on critical functions that execute actions like modifying the owner, transfer of funds and tokens, pausing and
