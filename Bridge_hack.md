@@ -2,7 +2,7 @@ How Bridges are Hacked?
 
 - Fake Events:
 Often, a cross-chain bridge will monitor for deposit events on one blockchain to initiate a transfer to the other. If an attacker can generate a deposit event without
-making a real deposit or by depositing with a valueless token, then they can withdraw value from the bridge at the other end.
+making a real deposit or by depositing with a valueless token, then they can withdraw value from the bridge at the other end.,
 
 - Message Verification Bug:
 Cross-chain bridges perform validation of a deposit or withdrawal before actually performing any transfers. There have been many instances in the past where 
