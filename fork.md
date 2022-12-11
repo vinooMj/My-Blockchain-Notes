@@ -40,3 +40,36 @@ The previous #keyboard shortcuts are still valid in the new version.
 While a soft fork could mean a split into 2 chains too, more often than not, it results in a single chain.
 
 This is because most nodes usually agree unanimously on the software update during the soft fork.
+
+What are forks in blockchain?
+
+The decentralized nature of public blockchains (for example, Bitcoin and Ethereum) means that participants on the network must be able to come to an agreement as to the shared state of the blockchain(shared public ledger and blocks and the blockchain protocol). Unanimous consensus amongst the network nodes results in a single blockchain that contains verified data(transactions) that the network asserts to be correct. However, many times, the nodes in the network can’t come in unanimous consensus regarding the future state of the blockchain. This event leads to forks (like a tuning fork used in experimental science), meaning that point in which the ideal ‘single’ chain of blocks is split into two or more chains which are all valid.
+
+This gives rise to three types of forks which can occur based on the backwards-compatibility of the blockchain protocol and the time
+instant at which a new block is mined. These types are as follows :
+-Soft Fork: when the blockchain protocol is altered in a backwards-compatible way
+-Hard Fork: when the blockchain protocol is altered in a non backwards-compatible way
+-Temporary Fork: when two miners mine a new block at the same time
+
+Causes for Blockchain fork :
+- Add new functionality
+- Fix security issues
+- Reverse transactions.
+
+Hard or Soft fork?
+
+Soft forks - everyone is happy
+-A soft fork is a software upgrade that can still work with older versions
+-A soft fork may be caused by changes that tighten the rules of block validation or implement additional functionality without affecting the network structure
+-A soft fork is possible only if a majority of users choose to upgrade to the new version to enforce new rules on the whole blockchain
+-Since soft forks do not carry the double-spend risk, they are mostly dull events that go unnoticed by the crypto investment community most of the times
+Eg: Block Size Limit, Pay to Script Hash
+
+Hard forks - this is war
+-A hard fork implies a change to a software protocol that makes older and newer versions incompatible
+-A hard fork is needed to modify structurally essential parameters or loosen the rules of block validation
+-Hard forks can be either planned or controversial
+-Hard forks are potentially messy and plagued by double spending problem: coins spent in a new block can be spent once again in an old block as merchants and users with the old version of the software will not see the spending registered on a new chain.
+Eg: Ethereum’s Byzantium,Monero,Bitcoin Cash, Ethereum classic.
+
+In Conclusion,The whole world of technology keeps evolving with time, and blockchains are keeping up with gusto. However, this does imply a need for continuous upgradation in blockchains. Blockchain forks keep blockchains transforming into newer, more secure, and advanced versions of themselves and also birth new cryptocurrencies. It’s pretty clear why they are integral in the growth of the general crypto ecosystem.
