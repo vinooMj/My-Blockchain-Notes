@@ -5,7 +5,7 @@ There are many blockchains in the world. The Bitcoin Blockchain is the first and
 **A block is added to the block list if:
 
 The block is the last one (previous index + 1);
-The previous block is correct (previous hash == block.previousHash);
+The previous block is correct (previous hash == block.previousHash).
 The hash is correct (calculated block hash == block.hash);
 The difficulty level of the proof-of-work challenge is correct (difficulty at blockchain index n < block difficulty);
 All transactions inside the block are valid;
