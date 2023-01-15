@@ -4,7 +4,7 @@ How scalability can be achieved on blockchains?
 
 Scalability is a key challenge in the blockchain technology. The ability to handle a large number of transactions in a short period of time is essential for the widespread adoption of blockchain-based applications. Here are a few technical approaches that have been proposed to improve scalability:
 
--Layer 2 solutions: These are protocols that are built on top of a blockchain and are designed to handle a large number of transactions off-chain, with only the final result being recorded on-chain. One example of a layer 2 solution is the Lightning Network, which is built on top of the Bitcoin blockchain and allows for fast, cheap transactions by creating a network of payment channels between users.
+-Layer 2 solutions: These are protocols that are built on top of a blockchain and are designed to handle a large number of transactions off-chain, with only the final result being recorded on-chain. One example of a layer 2 solution is the Lightning Network, which is built on top of the Bitcoin blockchain and allows for fast, cheap transactions by creating a network of payment channels between users..
 
 -Sharding: This is a technique that involves dividing the blockchain into smaller pieces, or shards, and distributing the processing of transactions across multiple nodes. This allows each node to process a smaller subset of the data, reducing the burden on any single node and enabling the blockchain to handle a larger number of
 transactions per second.
