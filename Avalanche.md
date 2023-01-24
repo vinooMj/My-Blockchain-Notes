@@ -1,6 +1,6 @@
 Avalanche (AVAX) is a cryptocurrency and blockchain platform that rivals Ethereum. AVAX is the native token of the Avalanche blockchain,
 which—like Ethereum—uses smart contracts to support various blockchain projects. The Avalanche blockchain can 
-provide near-instant transaction finality.
+provide near-instant transaction finality..
 
 The C-Chain allows for the creation smart contracts using the C-Chain’s API.
 
