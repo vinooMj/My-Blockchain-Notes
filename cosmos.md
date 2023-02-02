@@ -37,3 +37,28 @@ Zone B after receiving the transaction updates its state and shows the tokens in
 
 The Cosmos SDK is a powerful tool for developers that allows them to build custom blockchain applications, depending on the features and components they need for their
 application.
+
+
+Cosmos terminology ⚛
+
+Cosmos = The ecosystem of IBC connected sovereign L1 chains
+
+IBC = Inter-Blockchain Communication, the generalised protocol for 2 blockchains to securely transmit data
+
+Cosmos Hub (ATOM) = One of the first IBC connected chains, its primary value prop being one of many security providers in the Cosmos
+
+Osmosis (OSMO) = The L1 DeFi Hub of the Cosmos
+
+Keplr = The Metamask for Cosmos
+
+ICS20 = The token transfer protocol built on top of IBC for trust minimised bridging
+
+CosmWasm = The Rust-based smart contracting framework for the Cosmos-SDK (I'm hiring Cosmwasm devs)
+ 
+Cosmos-SDK = The most popular appchain development stack. Used by most (but not all!) Cosmos chains
+
+Tendermint = The proof-of-stake BFT consensus protocol used by most Cosmos-SDK chains
+
+Mintscan = The etherscan of Cosmos - https://mintscan.io
+
+ICNS = The ENS of Cosmos - https://www.icns.xyz/
