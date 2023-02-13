@@ -49,3 +49,14 @@ Ethereum's "The Surge" will aim to improve Ethereum’s throughput from around 1
 
 --------------------------------
 npx create-web3-dapp - dapp creation in cli
+
+
+-----------------------------------
+how blockchain transactions in Ethereum are verified? 
+Enter the magic of #ecrecover! 
+
+Just like you use a signature to verify the sender of a letter, the `ecrecover` function in Solidity helps verify the authenticity of digital signatures in Ethereum transactions. 
+
+So the next time you see the usage of `ecrecover`, you'll know the magic behind the scenes
+
+----------------------------------
