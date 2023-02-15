@@ -6,7 +6,7 @@ Arbitrum has three modes: AnyTrust Channels, AnyTrust Sidechains, and Arbitrum R
 
 🔷It offers The following benefits : - 
 🔹Trustless Security - Security rooted in Ethereum, with any one party abel to ensure correct Layer 2 results 
-🔹Scalability - Moving contracts’ computation and storage off of the main Ethereum chain, allowing much higher throughput.
+🔹Scalability - Moving contracts’ computation and storage off of the main Ethereum chain, allowing much higher throughput..
 
 ✅Arbitrum is a rollup, which means that the inputs to the chain -- the messages that are put into the inbox -- are all recorded on the 
 Ethereum chain as calldata.
