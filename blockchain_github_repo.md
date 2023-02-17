@@ -1,0 +1,10 @@
+Dabit3/Full-Stack-Ethereum: https://lnkd.in/d5GU-8vZ
+Bkrem/awesome-solidity: https://lnkd.in/dGVnvkXS
+Sigp/solidity-security-blog: https://lnkd.in/dMsmgiiT
+Offcier/Defi-Developer-Roadmap: https://lnkd.in/deWtPHnX
+Xel/Blockchain-stuff: https://lnkd.in/dqUpj5Zv
+ConsenSys/ethereum-developer-tools-list: https://lnkd.in/d7URE9f9
+OpenZeppelin/openzeppelin-contracts: https://lnkd.in/dVgvceWa
+Fravoll/solidity-patterns: https://lnkd.in/drfSv4mh
+Manojpramesh/solidity-cheatsheet: https://lnkd.in/dsv4bE48
+Crytic/evm-opcodes: https://lnkd.in/dcn67g6B
