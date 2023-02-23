@@ -18,7 +18,7 @@ There is only 1 fee transaction and 1 reward transaction.
 The transaction hash is correct (calculated transaction hash == transaction.hash);
 The signature of all input transactions are correct (transaction data signature can be verified with the public key of the address);
 The sum of input transactions are greater than output transactions, it needs to leave some room for the transaction fee;
-The transaction isn't already in the blockchain
+The transaction isn't already in the blockchain.
 All input transactions are unspent in the blockchain.
 
 
