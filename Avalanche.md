@@ -10,4 +10,4 @@ The P-Chain is the metadata blockchain on Avalanche and coordinates validators, 
 The P-Chain implements the Snowman consensus protocol.
 
 The X-Chain acts as a decentralized platform for creating and trading digital smart assets, a representation of a real-world resource (for example, equity, bonds) 
-with a set of rules that govern its behavior, like "can’t be traded until tomorrow" or "can only be sent to US citizens."
+with a set of rules that govern its behavior, like "can’t be traded until tomorrow" or "can only be sent to US citizens.
