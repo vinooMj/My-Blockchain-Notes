@@ -4,7 +4,7 @@ provide near-instant transaction finality..
 
 The C-Chain allows for the creation smart contracts using the C-Chain’s API.
 
-The C-Chain is an instance of the Ethereum Virtual Machine powered by Avalanche.
+The C-Chain is an instance of the Ethereum Virtual Machine powered by Avalanche
 
 The P-Chain is the metadata blockchain on Avalanche and coordinates validators, keeps track of active Subnets, and enables the creation of new Subnets. 
 The P-Chain implements the Snowman consensus protocol.
