@@ -26,3 +26,21 @@ With tokenized real estate in Defi, you'd be able to:
 • Invest with a small amount of capital
 • Invest in a specific property, or
 • (potentially) Invest in index tokens that represent a neighbourhood, city, state, or country.
+
+
+--
+There is a common misconception that "Real estate Tokenization" is similar to how REITs (Real estate Investment Trusts) work.
+There are some key differences that set it apart.
+
+1, The digital tokens used in real estate #tokenization are called "Security Tokens" and are backed by underlying infrastructure assets.
+
+2, Security tokens are governed and executed through smart contracts, which are self-enforcing and self-executing. These contracts are written as lines of code on top of an existing blockchain network. So that You have visibility & voting rights on that asset rather become a passive investor to wait for "Dividends" that they may share.
+
+3, Tokens can be transferred to investors without the need for intermediaries such as brokers or contractors, So that you do not need to cut off your ROI as additional fees.
+
+4, All relevant financial and statutory information is recorded immutably on the blockchain, making it impossible for humans to tamper with the data, Thus you complete control and visibility on the entire investment lifecycle.
+
+5, Contractual terms and historical data are accessible to investors, regulators, and verifiers, bringing greater transparency, accuracy, and efficiency to the process.
+
+Finally, newly minted tokens are transferred to investors' web-3 wallets, and they can transfer or trade their tokens on secondary markets, unlocking new possibilities such as instant liquidity and lending and borrowing capabilities.
+
