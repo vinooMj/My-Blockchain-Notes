@@ -1,6 +1,6 @@
 A Guide to Automated Market Makers (AMMs) 💱
 
-🟢 Automated market maker (AMM) is a protocol used by decentralized exchanges (DEXs) like Uniswap, Sushiswap or Pancakeswap. 
+🟢 Automated market maker (AMM) is a protocol used by decentralized exchanges (DEXs) like Uniswap, Sushiswap or Pancakeswap
 
 Instead of relying on traditional financial intermediaries, AMMs use automated smart contracts to pair crypto buyers with sellers.
 
