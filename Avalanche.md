@@ -2,7 +2,7 @@ Avalanche (AVAX) is a cryptocurrency and blockchain platform that rivals Ethereu
 which—like Ethereum—uses smart contracts to support various blockchain projects. The Avalanche blockchain can 
 provide near-instant transaction finality..
 
-The C-Chain allows for the creation smart contracts using the C-Chain’s API.
+The C-Chain allows for the creation smart contracts using the C-Chain’s API
 
 The C-Chain is an instance of the Ethereum Virtual Machine powered by Avalanche
 
