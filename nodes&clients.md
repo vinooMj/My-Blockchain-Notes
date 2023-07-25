@@ -23,3 +23,45 @@ Modular design with various software pieces working together is called encapsula
 
 ↗. This approach makes it easier to execute The Merge seamlessly and enables the reuse of individual clients, for example, in the layer 2 
 ecosystem. 
+
+Blockchain Nodes
+
+Node is a computer that runs the Blockchain Software to validate and store the complete history of transactions and of course the transactions are bundled into BLOCKS. 
+
+Node is a computer that is connected to the Blockchain Network that has necessary software installed on it. 
+
+Nodes are responsible for validating transactions, storing a copy of the Blockchain and replaying information to other nodes in the network.
+
+Blockchain Nodes constantly exchange the information on new transactions and blocks. 
+
+Different layers of Blockchain Node:
+
+Applications & UI
+ 🔻 
+APIs
+ 🔻 
+Keys and Assets
+ 🔻 
+Blockchain Frameworks
+ 🔻 
+Operating System
+
+
+There are different types of Nodes. I will present a few briefly. 
+
+Archival Full Nodes:
+These Nodes host the entire Blockchain, validate Blocks and maintain Consensus. 
+
+Pruned Full Nodes:
+This kind of Nodes initially download the entire Blockchain and then delete the blocks beginning with the oldest block till it holds the most recent transactions up to the size limit set by the operator. 
+
+Master Nodes:
+User who runs these nodes earn network rewards. These are typically used in Proof Of Stake (PoS) Blockchain Network such as Ethereum. Master Nodes are responsible for validating transactions, processing blocks and managing network governance. 
+
+Cold Nodes: 
+These are used for signing transactions offline and store the private keys away from the network. 
+
+Lightning Nodes:
+These nodes reduce the load on the network by enabling off chain transactions and these nodes enable faster and cheaper transactions. 
+For example, in a country called 'el salvador' people can buy Pizza with BTC. So there these lightning nodes are used for BTC transactions.
+
