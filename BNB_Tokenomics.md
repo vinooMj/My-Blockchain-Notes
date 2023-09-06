@@ -2,7 +2,7 @@ What is the Token Economics of BNB?
 
 (1) Binance Ecosystem
 
-The Binance ecosystem includes:
+The Binance ecosystem includes
 
 1. Binance(.)com - the original crypto exchange.
 
