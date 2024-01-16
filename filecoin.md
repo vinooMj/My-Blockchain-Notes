@@ -20,3 +20,19 @@ of the existing dapps.
 Dataverse/Data-centric DAOs: Now we can create DAOs where members can collectively take decisions on how to manage important data. 
 Time capsules: You can lock particular information for a certain period of time. 
 
+Filecoin is 4000x cheaper than AWS S3.
+
+It’s got ~30 EXABYTES of cloud storage capacity.
+
+That’s 2% of the entire global data center storage capacity.
+
+It is a $100M ARR network. 
+
+This is just one example of DePIN in action - and with cloud costs on peoples mind, how can they ignore Filecoin? 
+
+Filecoin also provides these unique benefits: 
+- Nobody can shut your data off
+- Insane redundancy not possible with multicloud 
+- Global availability 
+
+
