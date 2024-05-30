@@ -1,0 +1,19 @@
+Understanding Token Vesting Mechanics
+
+Token vesting is typically implemented using smart contracts on blockchain platforms like Ethereum. These contracts include a set of rules and conditions that govern the release of tokens. The core components of a token vesting smart contract are:
+
+1. Beneficiary: This is the address of the recipient who will receive the vested tokens. It could be an individual, a team member, an advisor, or any other relevant party.
+
+2. Token Address: The smart contract needs to know which token it is governing. It specifies the token contract address that contains the tokens to be vested.
+
+3. Vesting Schedule: The schedule defines when and how tokens are released. It includes parameters like the vesting start date, the vesting cliff (a period during which no tokens are vested), and the vesting duration.
+
+4. Revocable or Irrevocable: Some token vesting contracts allow the issuer (e.g., the project team) to revoke the vested tokens under specific conditions, while others are irrevocable, meaning once vested, tokens cannot be taken back.
+
+Now, let’s explore the most common types of token vesting patterns.
+
+🧩 Common Token Vesting Patterns
+
+1. Time-Based Vesting: This is the simplest and most widely used token vesting pattern. It involves a linear release of tokens over a specified period. For example, if a team member has a four-year vesting period, they might receive 25% of their tokens after the first year and the rest distributed evenly over the next three years.
+
+🔍 Example: A team member receives 10,000 tokens with a four-year vesting period. They would get 2,500 tokens after one year, and the remaining 7,500 tokens would vest monthly over the next 36 months.
